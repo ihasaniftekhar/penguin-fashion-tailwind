@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.container{
+    margin: 0px auto;
+    padding: 20px;
+}
+
+.btn-buy-now{
+    width: 170px;
+    height: 60px;
+    background-image: linear-gradient(#A4BC46,#85A019);
+    border-radius: 1em;
+    Font:Roboto;
+    Weight: 500;
+    Style: normal;
+    Size: 16px;
+    line-height: 24px;
+    color: white;
+
+}
